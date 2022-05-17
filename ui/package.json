@@ -174,7 +174,7 @@
     "@percy/ember": "^3.0.0",
     "codemirror": "^5.56.0",
     "curved-arrows": "^0.1.0",
-    "d3": "^7.3.0",
+    "d3": "^7.4.4",
     "lru_map": "^0.4.1",
     "no-case": "^3.0.4",
     "title-case": "^3.0.3"
